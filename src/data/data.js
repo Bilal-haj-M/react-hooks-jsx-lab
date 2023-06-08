@@ -1,4 +1,5 @@
 // use these variables in your JSX (update them with your own name and city!)
+ // eslint-disable-next-line
 const name = "Liza";
 const city = "New York";
 
